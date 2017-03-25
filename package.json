@@ -1,0 +1,30 @@
+{
+  "name": "mysql-time",
+  "version": "1.0.0",
+  "description": "JavaScript-Time to MySQL-Time convert utility",
+  "main": "index.js",
+  "engines": {
+    "node": "v6.10.X",
+    "npm": "3.10.X"
+  },
+  "scripts": {
+    "test": "mocha index.js"
+  },
+  "keywords": [
+    "JavaScript",
+    "MySQL"
+  ],
+  "author": "sasaken555",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sasaken555/JS-MySQL-TimeUtility.git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^3.18.0",
+    "eslint-config-airbnb-base": "^11.1.1",
+    "eslint-plugin-import": "^2.2.0",
+    "mocha": "^3.2.0",
+    "power-assert": "^1.4.2"
+  }
+}
